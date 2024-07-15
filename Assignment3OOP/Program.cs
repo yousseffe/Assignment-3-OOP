@@ -73,16 +73,16 @@ namespace Assignment3OOP
             //FullTimeEmployee E2 = new FullTimeEmployee()
             //{
             //    ID = 1,
-            //    Name = "Ahmed",
+            //    Name = "hassan",
             //    Age = 20,
             //    Salary = 10000
             //};
             //PartTimeEmployee E3 = new PartTimeEmployee()
             //{
-            //    Age = 20,
-            //    HourSalary  = 20,
             //    ID = 2,
-            //    Name   ="Ayman"  
+            //    Name   ="hosni",
+            //    Age = 20,
+            //    HourSalary  = 20
             //};
 
             //ProcessEmp(E3); 
